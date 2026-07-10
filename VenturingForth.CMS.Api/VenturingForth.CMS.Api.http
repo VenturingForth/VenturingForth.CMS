@@ -1,0 +1,6 @@
+@VenturingForth.CMS.Api_HostAddress = http://localhost:5037
+
+GET {{VenturingForth.CMS.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

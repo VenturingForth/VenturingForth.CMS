@@ -1,0 +1,8 @@
+*obj/
+*bin/
+*.user
+.vs/
+appsettings.Development.json
+appsettings.Local.json
+*env
+.idea/
