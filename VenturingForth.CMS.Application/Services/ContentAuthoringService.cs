@@ -2,7 +2,7 @@
 
 namespace VenturingForth.CMS.Application;
 
-public class ContentAuthoringService : IContentAuthoringService
+public sealed class ContentAuthoringService : IContentAuthoringService
 {
     /// <inheritdoc/>
     public async Task<Result<ContentItemResponse>> CreateAsync(CreateContentItemRequest request, CancellationToken ct)
