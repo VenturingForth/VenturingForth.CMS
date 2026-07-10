@@ -1,4 +1,5 @@
 ﻿using VenturingForth.CMS.Application.Interfaces;
+using VenturingForth.CMS.Application.Models;
 
 namespace VenturingForth.CMS.Application;
 
