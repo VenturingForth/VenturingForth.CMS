@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\VenturingForth.CMS.Domain\VenturingForth.CMS.Domain.csproj" />
+    </ItemGroup>
+
 </Project>
