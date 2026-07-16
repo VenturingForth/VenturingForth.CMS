@@ -1,3 +1,5 @@
+using VenturingForth.CMS.Domain.ContentTypes;
+
 namespace VenturingForth.CMS.Domain.Entities;
 
 public sealed class ContentItemEntity

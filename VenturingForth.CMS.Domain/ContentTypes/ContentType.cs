@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace VenturingForth.CMS.Domain;
+namespace VenturingForth.CMS.Domain.ContentTypes;
 
 public abstract class ContentType
 {
