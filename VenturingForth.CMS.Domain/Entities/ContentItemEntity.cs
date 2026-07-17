@@ -1,0 +1,10 @@
+using VenturingForth.CMS.Domain.ContentTypes;
+
+namespace VenturingForth.CMS.Domain.Entities;
+
+public sealed class ContentItemEntity
+{
+    public Guid Id { get; set; }
+    public Guid SiteId { get; set; }
+    public ContentTypeBase TypeBase { get; set; }
+}
